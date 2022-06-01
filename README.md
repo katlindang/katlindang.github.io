@@ -7,7 +7,7 @@
 
 Many people believe that once you reach a certin age, you can't learn things as well, like learning a language or playing an instrumment. A reason why many people believe they can't learn new things later in life is because the design and learning isn't catered to older people. The goal of this project will help promote the best user experience in electronic music learning for middle-aged men
 
-Listening and learning music, especially electronic music, is a bonding experience that connects people throughout the world and of all ages. They are many different genres of electronic music. This project aims to allow users to understand how electronic music is made and allow users to learn individual components/sounds of electronic music. 
+Listening and learning music, especially electronic music, is a bonding experience that connects people throughout the world and of all ages. They are many different genres of electronic music that have been created over the years. This project aims to allow users to understand how electronic music is made and allow users to learn individual components/sounds of electronic music. 
 
 
 
