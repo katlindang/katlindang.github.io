@@ -24,9 +24,11 @@ Based on a series of research and evaluations, I decided to create 3 design feat
 
 # Competitor Analysis and Heuristic Evaluation
 
+
+
  [![Screen-Shot-2022-06-02-at-12-02-39-AM.png](https://i.postimg.cc/d1hmPnD4/Screen-Shot-2022-06-02-at-12-02-39-AM.png)](https://postimg.cc/gXP63VVZ)  [![Screen-Shot-2022-06-02-at-12-02-59-AM.png](https://i.postimg.cc/tJ0P0jK4/Screen-Shot-2022-06-02-at-12-02-59-AM.png)](https://postimg.cc/WFntrQpB) 
 
-Heuristic evaluation
+
 
 
 Read more about my heuristic evaluation [here](https://github.com/katlindang/Assignment-01-Heuristic-Evaluation-). You can find the website [here](https://learningmusic.ableton.com) 
