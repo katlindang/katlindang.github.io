@@ -11,11 +11,25 @@ Listening and learning music, especially electronic music, is a bonding experien
 
 
 
-
-
 # Design Statement 
 
+Based on a series of research and evaluations, I decided to create 3 design features that will help users navigate and use the app more efficiently. These design features offer an easy way to look up information for individual needs as well as allow users to have freedom to learn at their own pace.
+
+- Login Page: To allow users to save their progress and bookmark important pages
+
+- Search Bar: Clear and easily visible search bar in the top right corner to allow users to search for specific parts of the electronic music learning website.
+
+- Numbered Navigation Bar: Create a navigation bar at the bottom of the page to easily toggle between pages instead of clicking the back or next button multiple times
+
+
 # Competitor Analysis and Heuristic Evaluation
+
+ [![Screen-Shot-2022-06-02-at-12-02-39-AM.png](https://i.postimg.cc/d1hmPnD4/Screen-Shot-2022-06-02-at-12-02-39-AM.png)](https://postimg.cc/gXP63VVZ)  [![Screen-Shot-2022-06-02-at-12-02-59-AM.png](https://i.postimg.cc/tJ0P0jK4/Screen-Shot-2022-06-02-at-12-02-59-AM.png)](https://postimg.cc/WFntrQpB) 
+
+Heuristic evaluation
+
+
+Read more about my heuristic evaluation [here](https://github.com/katlindang/Assignment-01-Heuristic-Evaluation-). You can find the website [here](https://learningmusic.ableton.com) 
 
 # User Research 
 
