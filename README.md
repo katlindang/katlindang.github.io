@@ -24,9 +24,16 @@ Based on a series of research and evaluations, I decided to create 3 design feat
 
 # Competitor Analysis and Heuristic Evaluation
 
-
+I conducted a heuristic evaluation on two websites: Learning Music Ableton and Attack Magazine. Both of these sites are used for electronic music learning. The purpose of a heuristic evaluation is to help identify and fix usability issues through Nielson's 10 step heuristic evaluation process. 
 
  [![Screen-Shot-2022-06-02-at-12-02-39-AM.png](https://i.postimg.cc/d1hmPnD4/Screen-Shot-2022-06-02-at-12-02-39-AM.png)](https://postimg.cc/gXP63VVZ)  [![Screen-Shot-2022-06-02-at-12-02-59-AM.png](https://i.postimg.cc/tJ0P0jK4/Screen-Shot-2022-06-02-at-12-02-59-AM.png)](https://postimg.cc/WFntrQpB) 
+
+Learning Music Ableton and Attack Magazine has some great functionality and usefulness, but the initial design for both of these sites had a high severity rating on some parts of the heuristic evaluation. The goal of this UX project is to cater a music learning website to middle aged men, so with this in mind, the redesign will include some key aspects as follows: 
+
+- For Learning Music Ableton, the heuristic principles that had a high severity rating were Visibility of System Status, Match Between System and the Real World, and Help and Documentation.  
+   
+ - Visibility of System Status allows users to understand and know where to go as they go through the website. The problem with the website, is that it 
+
 
 
 
