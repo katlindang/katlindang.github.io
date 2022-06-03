@@ -22,7 +22,9 @@ Based on a series of research and evaluations, I decided to create 3 design feat
 - Numbered Navigation Bar: Create a navigation bar at the bottom of the page to easily toggle between pages instead of clicking the back or next button multiple times
 
 
-# Competitor Analysis and Heuristic Evaluation
+# Competitor Analysis 
+
+## Heuristic Evaluation
 
 I conducted a heuristic evaluation on two websites: Learning Music Ableton and Attack Magazine. Both of these sites are used for electronic music learning. The purpose of a heuristic evaluation is to help identify and fix usability issues through Nielson's 10 step heuristic evaluation process. 
 
@@ -42,7 +44,7 @@ Learning Music Ableton and Attack Magazine has some great functionality and usef
 
 Read more about my heuristic evaluation [here](https://github.com/katlindang/Assignment-01-Heuristic-Evaluation-). You can find the website [here](https://learningmusic.ableton.com) 
 
-# User Research 
+# Usability Testing
 
 Unlike the heuristic evaluation, the usability testing allows researchers to identify particular problems by observing and testing the participant and recieving their feedback. Usability testing can be more helpful because it allows researchers to work directly with the target audience. For this test, I focused on 3 tasks that were based off of my heuristic evaluation. I asked the participant to search for various things within the website and evaluate how easy it was to perform these tasks. 
 
@@ -54,6 +56,13 @@ As you can see, the participant was able to perform these tasks successfully and
 
 
 Find the full usability testing [here](https://github.com/katlindang/DH110-Assignment02-UT) 
+
+# User Research - Contextual Inquiry
+
+With contextual inquiry, we are now stepping away from Learning Music Ableton, and instead, asking participants to show which websites or apps they usually use to learn music. This research method allows researchers to uncover hidden insights about users that may not be present with the other research methods we have used previously. For this research method, I used a participatory observation where I asked a series of questions pertaining to music learning. 
+
+
+See contextual inquiry [here](https://github.com/katlindang/Assignment-3-Contextual-Inquiry-) 
 
 # UX Story Telling
 
