@@ -44,12 +44,13 @@ Read more about my heuristic evaluation [here](https://github.com/katlindang/Ass
 
 # User Research 
 
-Unlike the heuristic evaluation, the usability testing allows researchers to identify particular problems by observing and testing the participant and recieving their feedback. Usability testing can be more helpful because it allows researchers to work directly with the target audience. 
+Unlike the heuristic evaluation, the usability testing allows researchers to identify particular problems by observing and testing the participant and recieving their feedback. Usability testing can be more helpful because it allows researchers to work directly with the target audience. For this test, I focused on 3 tasks that were based off of my heuristic evaluation. I asked the participant to search for various things within the website and evaluate how easy it was to perform these tasks. 
 
 Here is my usability test: 
 
 <iframe src="https://drive.google.com/file/d/1cXJLaYDznM4APmL68tyVr7UgN_i7oQTH/preview" width="640" height="480" allow="autoplay"></iframe>
 
+As you can see, the participant was able to perform these tasks successfully and almost all with ease. Some tasks took longer to find than others, but navigating through the site was straightforward. A downside to usability testing is that participants, like mine, might not be as vocal when asking for help. It is useful as researchers to hear participants thought process, so that they could strategically place website navigation button in more clearer areas. 
 
 
 Find the full usability testing [here](https://github.com/katlindang/DH110-Assignment02-UT) 
