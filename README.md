@@ -32,11 +32,11 @@ Learning Music Ableton and Attack Magazine has some great functionality and usef
 
 - For Learning Music Ableton, the heuristic principles that had a high severity rating were Visibility of System Status, Match Between System and the Real World, and Help and Documentation.  
    
- - Visibility of System Status allows users to understand and know where to go as they go through the website. The problem with the website, is that it there is not a section where you can switch inbetween individual sections. If you wanted to look at a previous section, you would have to press "previous" multiple times. Including a numbered navigation bar at the bottom will allow users to easily toggle between the pages.
+  - Visibility of System Status allows users to understand and know where to go as they go through the website. The problem with the website, is that it there is not a section where you can switch inbetween individual sections. If you wanted to look at a previous section, you would have to press "previous" multiple times. Including a numbered navigation bar at the bottom will allow users to easily toggle between the pages.
 
- - Match Between System and the Real World is the use of language and ideas that are familiar to users that flow in a natural order. There are some parts of the sections that come before explaining what to do with the interactive buttons. For example, on the beats section, it dives right into the playing with the beats before explaining what "an open hat or closed hat" means.
+  - Match Between System and the Real World is the use of language and ideas that are familiar to users that flow in a natural order. There are some parts of the sections that come before explaining what to do with the interactive buttons. For example, on the beats section, it dives right into the playing with the beats before explaining what "an open hat or closed hat" means.
 
- - Help and Documentation provide users with additional information or help to complete the tasks. It does not include a FAQ, contact us, or help button. These are important features to add to a website or app because users can personally tell web developers problems directly
+  - Help and Documentation provide users with additional information or help to complete the tasks. It does not include a FAQ, contact us, or help button. These are important features to add to a website or app because users can personally tell web developers the problems directly and, also, ask for help, if needed. 
 
 
 
