@@ -68,6 +68,9 @@ See contextual inquiry [here](https://github.com/katlindang/Assignment-3-Context
 
 # UX Story Telling - User Personas & Scenarios
 
+Based on previous research and observations, I developed 2 personas for my target demographics. As stated previously, the target demographic for Learning Music Ableton are middle aged men. These personas allows researchers to understand their target users. This is an alternative way to evaluate a website compared to heuristic evaluations and interviews. The purpose of this is to gain insight about the usability and pain points of the site. Manny and Derek have different music skill levels, but they both use this site to satisfy their needs. Derek uses the fuctionality of the site for pure traditional learning; whereas, Manny uses this site mainly to use the interactive soundboards to learn how to read music notes. Although they are using different functions of the website, this website is beneficial for middle aged men of all skill levels. 
+
+
 ### Derek's Persona and Empathy map
 [![Screen-Shot-2022-05-03-at-5-43-23-PM.png](https://i.postimg.cc/fLnvNTtm/Screen-Shot-2022-05-03-at-5-43-23-PM.png)](https://postimg.cc/8F4vdGbz)  [![Screen-Shot-2022-05-03-at-5-43-42-PM.png](https://i.postimg.cc/k4vWPNdP/Screen-Shot-2022-05-03-at-5-43-42-PM.png)](https://postimg.cc/2b314Z60)
 
@@ -79,8 +82,16 @@ See contextual inquiry [here](https://github.com/katlindang/Assignment-3-Context
 For Manny and Derek's complete journey map and scenarios click [here](https://github.com/katlindang/DH-110-Persona-Scenarios/blob/main/README.md)
 
 
-# Low/High Fidelity Prototyping
+# Low Fidelity Prototyping
 
+Low Fidelity prototyping is an effective and low-cost way to test the contents of your design before the development of the final product. It allows designers to obtain user feedback to work out problem areas and errors in the design. It is low-cost and allows app designers to see how easily users can or can’t navigate the app. With the heuristic evaluation and usability testing in mind, I decided to include a sign up/login page, a search bar, and a numbered navigation bar to integrate into an app. These features are included in the wireframes below. The new features allowed the particpant to easily follow and toggle between pages for an efficient learning environment.  
 
+## Wireframe and WireFlow
+
+[![IMG-4405.jpg](https://i.postimg.cc/7Zjk6yTy/IMG-4405.jpg)](https://postimg.cc/9DPS8Kpx)
+
+[![IMG-4406.jpg](https://i.postimg.cc/66zxZZGc/IMG-4406.jpg)](https://postimg.cc/PNL7sPyv)
+
+Find the full Low-Fidelity Prototype and testing [here](https://github.com/katlindang/DH-110--Assignment-05---low-fidelity-prototype) 
 
 # Conclusion
