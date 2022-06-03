@@ -96,7 +96,6 @@ Find the full Low-Fidelity Prototype and testing [here](https://github.com/katli
 
 # Conclusion
 
-This UX project taught me the long process of 
 
 
 
