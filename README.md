@@ -61,10 +61,22 @@ Find the full usability testing [here](https://github.com/katlindang/DH110-Assig
 
 With contextual inquiry, we are now stepping away from Learning Music Ableton, and instead, asking participants to show which websites or apps they usually use to learn music. This research method allows researchers to uncover hidden insights about users that may not be present with the other research methods we have used previously. For this research method, I used a participatory observation where I asked a series of questions pertaining to music learning. 
 
+The parcipant chose [https://www.musictheory.net](https://www.musictheory.net) as their website of choice for music learning. This participant grew up playing music and is considered intermediate-advanced level; however, he does not know how to read sheet music. He says this website is useful to him because it is straightforward and allows him to focus on small individual chapters at a time. This contextual inquiry allowed me to see how and why this user chose this website. With this in mind, this research will help guide me to redesigning Learning Music Ableton to cater towards my target demographic.
+
 
 See contextual inquiry [here](https://github.com/katlindang/Assignment-3-Contextual-Inquiry-) 
 
-# UX Story Telling
+# UX Story Telling - User Personas & Scenarios
+
+### Derek's Persona and Empathy map
+[![Screen-Shot-2022-05-03-at-5-43-23-PM.png](https://i.postimg.cc/fLnvNTtm/Screen-Shot-2022-05-03-at-5-43-23-PM.png)](https://postimg.cc/8F4vdGbz)  [![Screen-Shot-2022-05-03-at-5-43-42-PM.png](https://i.postimg.cc/k4vWPNdP/Screen-Shot-2022-05-03-at-5-43-42-PM.png)](https://postimg.cc/2b314Z60)
+
+### Mannys's Persona and Empathy map
+[![Screen-Shot-2022-05-03-at-5-43-51-PM.png](https://i.postimg.cc/HshXmsFn/Screen-Shot-2022-05-03-at-5-43-51-PM.png)](https://postimg.cc/KRtRrFGh)
+
+[![Screen-Shot-2022-05-03-at-5-44-29-PM.png](https://i.postimg.cc/xdrmkpfS/Screen-Shot-2022-05-03-at-5-44-29-PM.png)](https://postimg.cc/rDJs3JRh)
+
+For Manny and Derek's complete journey map and scenarios click [here](https://github.com/katlindang/DH-110-Persona-Scenarios/blob/main/README.md)
 
 
 # Low/High Fidelity Prototyping
