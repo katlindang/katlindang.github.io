@@ -95,3 +95,10 @@ Low Fidelity prototyping is an effective and low-cost way to test the contents o
 Find the full Low-Fidelity Prototype and testing [here](https://github.com/katlindang/DH-110--Assignment-05---low-fidelity-prototype) 
 
 # Conclusion
+
+This UX project taught me the long process of 
+
+
+
+
+
