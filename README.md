@@ -94,10 +94,28 @@ Low Fidelity prototyping is an effective and low-cost way to test the contents o
 
 Find the full Low-Fidelity Prototype and testing [here](https://github.com/katlindang/DH-110--Assignment-05---low-fidelity-prototype) 
 
+
+High-Fidelity Protype
+
+## Wireframe
+
+[![Screen-Shot-2022-06-05-at-10-10-14-AM.png](https://i.postimg.cc/15k6tQDq/Screen-Shot-2022-06-05-at-10-10-14-AM.png)](https://postimg.cc/tYz7S8Sq)
+
+
+To view the prototype wireflow on figma click [here](https://www.figma.com/file/qWik4xZQjP7MhKW7EFLLZk/Assignment-6?node-id=46%3A10) 
+
+
+## Interactove High-Fidelity Prototype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqWik4xZQjP7MhKW7EFLLZk%2FAssignment-6%3Fnode-id%3D46%253A10%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D46%253A10" allowfullscreen></iframe>
+
+
+
+
 # Conclusion
 
 
-
+Make the wireframes digitally so it will be easier in the longrun for the high fielity prototype
 
 
 
