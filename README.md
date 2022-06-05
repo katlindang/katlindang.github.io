@@ -117,12 +117,19 @@ To view the prototype wireflow on figma click [here](https://www.figma.com/file/
 [link](https://github.com/katlindang/DH-110-Assignment-07---High-Fidelity-Prototype) to the High-FIdelity Prototype
 
 
+# Pitch Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYZo7VC8FHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[link](https://www.youtube.com/watch?v=zYZo7VC8FHg) to Pitch Video
+
+
 # Conclusion
 
 Before I joined this class, I thought this class was going to be more about the look and design of creating apps, but I didn't take into account that functionality plays a big role in user design/experience. I came in with no experience in UX/UI design, and although I struggled, this class was insightful and fun to learn about. I saw myself connecting the information I learned, to the apps I use everyday. This realization helped me get shift my mindset from being a user to being the designer/researcher. The process of UX design is long and tedious, but these steps are necessary for a user-centric design. The amount of testing, observation, and surveys allowed me to get to know the user. The first few weeks of testing and low-fidelity prototyping allowed me to design the app on functionality rather than aesthetics. After all of the intial testing and designs, then, I focused on the aesthetic. 
 
 
-If I were to do another UX project, I would feel much more comfortable with creating one. I feel like I have learned a lot. One thing I would do differently, is to create the wireframes digitally first time around for the low-fidelity prototype. It would have saved me so much time and make it easier in the longrun. What surprised me the most was how fun high-fidelity protyping is. I wish I had more time to learn about all of the various components and features, but maybe I might create a project for fun in the future. I feel like there is so much more I want to learn. 
+If I were to do another UX project, I would feel much more comfortable with creating one. I feel like I have learned a lot. One thing I would do differently, is to create the wireframes digitally first time around for the low-fidelity prototype. It would have saved me so much time and make it easier in the long run. What surprised me the most was how fun high-fidelity prototyping is. I wish I had more time to learn about all of the various components and features, but maybe I might create a project for fun in the future. I feel like there is so much more I want to learn. 
 
 
 
