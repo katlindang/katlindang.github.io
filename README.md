@@ -95,7 +95,11 @@ Low Fidelity prototyping is an effective and low-cost way to test the contents o
 Find the full Low-Fidelity Prototype and testing [here](https://github.com/katlindang/DH-110--Assignment-05---low-fidelity-prototype) 
 
 
-High-Fidelity Protype
+# High-Fidelity Protype
+
+The high-fidelity prototype is the last step after weeks of research and revision. The purpose of a high fidelity prototype is to test the fuctionality of the app as well as the interface. Through the heuristic evaluations, cognitive walkthroughs, usability tests, and accessibility tests, the high fidelity prototype incorporates everything we've learned about the target demographic to create an app that will help assist middle aged men with electronic music learning. 
+
+
 
 ## Wireframe
 
@@ -110,9 +114,16 @@ To view the prototype wireflow on figma click [here](https://www.figma.com/file/
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqWik4xZQjP7MhKW7EFLLZk%2FAssignment-6%3Fnode-id%3D46%253A10%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D46%253A10" allowfullscreen></iframe>
 
 
+[link](https://github.com/katlindang/DH-110-Assignment-07---High-Fidelity-Prototype) to the High-FIdelity Prototype
 
 
 # Conclusion
+
+I came in with no experience in UX/UI design, and although I struggled, this class was insightful and fun to learn about. I saw myself connecting the information I learned, to the apps I use everyday. This realization helped me get shift my mindset from being a user to being the designer/researcher. The process of UX design is long and tedious, but these steps are necessary for a user-centric design. The amount of testing, observation, and surveys allowed me to get to know the user. The first few weeks of testing and low-fidelity prototyping allowed me to design the app on functionality rather than aesthetics. After all of the intial testing and designs, then, I focused on the aesthetic.
+
+
+
+
 
 
 Make the wireframes digitally so it will be easier in the longrun for the high fielity prototype
