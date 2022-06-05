@@ -5,7 +5,7 @@
 
 # About this Project
 
-Many people believe that once you reach a certin age, you can't learn things as well, like learning a language or playing an instrumment. A reason why many people believe they can't learn new things later in life is because the design and learning isn't catered to older people. The goal of this project will help promote the best user experience in electronic music learning for middle-aged men
+Many people believe that once you reach a certain age, you can't learn things as well, like learning a language or playing an instrument. A reason why many people believe they can't learn new things later in life is because the design and learning isn't catered to older people. The goal of this project will help promote the best user experience in electronic music learning for middle-aged men
 
 Listening and learning music, especially electronic music, is a bonding experience that connects people throughout the world and of all ages. They are many different genres of electronic music that have been created over the years. This project aims to allow users to understand how electronic music is made and allow users to learn individual components/sounds of electronic music. 
 
@@ -30,7 +30,7 @@ I conducted a heuristic evaluation on two websites: Learning Music Ableton and A
 
  [![Screen-Shot-2022-06-02-at-12-02-39-AM.png](https://i.postimg.cc/d1hmPnD4/Screen-Shot-2022-06-02-at-12-02-39-AM.png)](https://postimg.cc/gXP63VVZ)  [![Screen-Shot-2022-06-02-at-12-02-59-AM.png](https://i.postimg.cc/tJ0P0jK4/Screen-Shot-2022-06-02-at-12-02-59-AM.png)](https://postimg.cc/WFntrQpB) 
 
-Learning Music Ableton and Attack Magazine has some great functionality and usefulness, but the initial design for both of these sites had a high severity rating on some parts of the heuristic evaluation. The website I chose to focus on was Learning Music Ableton because I liked the fuctionality and inclusion of interactive soundboards on the site. The goal of this UX project is to cater a music learning website to middle aged men, so with this in mind, the redesign will include some key aspects as follows: 
+Learning Music Ableton and Attack Magazine has some great functionality and usefulness, but the initial design for both of these sites had a high severity rating on some parts of the heuristic evaluation. The website I chose to focus on was Learning Music Ableton because I liked the functionality and inclusion of interactive soundboards on the site. I based my project off of Learning music ableton and redesigned it into a functional app. The goal of this UX project is to cater a music learning website to middle aged men, so with this in mind, the redesign will include some key aspects as follows: 
 
 - For Learning Music Ableton, the heuristic principles that had a high severity rating were Visibility of System Status, Match Between System and the Real World, and Help and Documentation.  
    
