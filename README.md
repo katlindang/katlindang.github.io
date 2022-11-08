@@ -22,7 +22,7 @@ Based on a series of research and evaluations, I decided to create 3 design feat
 - Numbered Navigation Bar: Create a navigation bar at the bottom of the page to easily toggle between pages instead of clicking the back or next button multiple times
 
 
-# Competitor Analysis 
+# Competitor Analysis
 
 ## Heuristic Evaluation
 
