@@ -1,9 +1,10 @@
-## DH 110 Assignment
+### Welcome UO SPM Admissions
+##### Click the hyperlinks for a more in-depth analysis of each section
 -------------------------------------------------------------------------------
 # Learning Music Ableton UX Project By Katlin Dang
 [![DJ-crowd.jpg](https://i.postimg.cc/RVXsZrpZ/DJ-crowd.jpg)](https://postimg.cc/4mHbW0TD)
 
-##### Click the hyperlinks for a more in-depth analysis of each section
+
 
 # About this Project
 
