@@ -3,6 +3,8 @@
 # Learning Music Ableton UX Project By Katlin Dang
 [![DJ-crowd.jpg](https://i.postimg.cc/RVXsZrpZ/DJ-crowd.jpg)](https://postimg.cc/4mHbW0TD)
 
+##### Click the hyperlinks for a more in-depth analysis of each section
+
 # About this Project
 
 Many people believe that once you reach a certain age, you can't learn things as well, like learning a language or playing an instrument. A reason why many people believe they can't learn new things later in life is because the design and learning isn't catered to older people. The goal of this project will help promote the best user experience in electronic music learning for middle-aged men
